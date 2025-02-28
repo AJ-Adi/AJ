@@ -33,10 +33,9 @@
 
 ### 📌 Featured Projects  
 - 🔹 **E-Commerce Website** – Built with HTML, TailwindCSS & JavaScript  
-- 🔹 **QA Automation Suite** – Developed test cases & automated scripts  
-- 🔹 **Portfolio Website** – Showcasing my work & skills  
+- 🔹 **QA Automation Suite** – Developed test cases & automated scripts    
 
-Check out my projects [here](https://github.com/AJ-Adi)!  
+Check out my projects [here](https://github.com/AJ-Adi?tab=repositories)!  
 
 ---
 
