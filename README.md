@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Software Developer | QA Enthusiast | Tech Explorer  
+### 💻 Web Developer | Cybersecurity Enthusiast | Power Electronics | Tech Explorer  
 
 🚀 Passionate about web development, software testing, and emerging technologies! Always eager to build, test, and improve applications that make a difference.  
 
